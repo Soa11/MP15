@@ -1,0 +1,541 @@
+fileFormatVersion: 2
+guid: ccffa76d73ea64741b4bc21984e29f37
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eight_black
+    second: {fileID: 2100000, guid: 3cc15bf8d51528a4382be4c351bb6ce2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: One_white
+    second: {fileID: 2100000, guid: bc9de0b764ba4a14387c68ad4020d1b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TwentySix_midCircle
+    second: {fileID: 2100000, guid: 3142149b4bb05d546a90e379b0033d0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Two_offWhite
+    second: {fileID: 2100000, guid: ee6d1681f80e3774e956db9b98b01bc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eighteen_turquoise
+    second: {fileID: 2100000, guid: ed9de3cd3ec209d449c69ef3428644fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: eleven_lightrose
+    second: {fileID: 2100000, guid: f0ceed2409dc6a648a4b85364993dd4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fifteen_neonYellow
+    second: {fileID: 2100000, guid: 87c3d06c43aae434ab710502ba9fad9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fiftyFour_offWhite
+    second: {fileID: 2100000, guid: b1901b9d037d2ca4abe3e653491d48ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fiftyThree_offWhite
+    second: {fileID: 2100000, guid: 975bf041d357ae944aee607e593ce3bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fiftyTwo_bluering
+    second: {fileID: 2100000, guid: 7548bd64e024dc8488a8d06d01472e28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fifty_lightOrange1
+    second: {fileID: 2100000, guid: 24ad56ad504aeda46a6745124980277a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fifty_tobacco
+    second: {fileID: 2100000, guid: c1cef34e397f9f64d8b4ff067bc9798e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fiftyeight_black
+    second: {fileID: 2100000, guid: 47435de39b5f5fa48a2a580a573f90a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fiftyeight_white
+    second: {fileID: 2100000, guid: 23ad153384a2e2a46bf1289c397c70ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fiftyfive_red
+    second: {fileID: 2100000, guid: f7bb1c457cad5334d8f7d5e2999106ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fiftynine_turquoise
+    second: {fileID: 2100000, guid: 687b177d8660c344aab98274c46b239a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fiftyseven_lightRose
+    second: {fileID: 2100000, guid: 0d616faf8afa614498483fc60519b45c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fiftysix_tobacco
+    second: {fileID: 2100000, guid: c23c04a05b9335c45beb4cec1881f55a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: five_Bluesq
+    second: {fileID: 2100000, guid: 1cd1b81a93000294280df1381664f32e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: four_orange
+    second: {fileID: 2100000, guid: 8db0d5eb9bf027e489e21b726237abd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fourteen_ultraMarine
+    second: {fileID: 2100000, guid: ceda4a57be03d9f439cb71e492744a33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fourtyEight_lemoNYellow
+    second: {fileID: 2100000, guid: 39ff69e134218f643a11382bcc44e235, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fourtyFive_neonblue
+    second: {fileID: 2100000, guid: 426ea5ba1a08be845aa26343b403f10d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fourtyFive_red
+    second: {fileID: 2100000, guid: 6419cb2e1d154984e8b662298e83b380, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fourtyFour_window
+    second: {fileID: 2100000, guid: 147e5d9a6c0ac2f4f92dedcb092fee30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fourtyNine_lightOrange
+    second: {fileID: 2100000, guid: 5cbab8d68ca95474eb69b5ca6b79166b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fourtyOne_white
+    second: {fileID: 2100000, guid: 52fd2db74f50e0843985ce70468be03b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fourtySeven_neonGreen
+    second: {fileID: 2100000, guid: 61f30a5043dc9ff408f6b77ebd408102, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fourtySix_neonpink
+    second: {fileID: 2100000, guid: adc6ccc9ce4dc4146a0b9484741ed56a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fourtyThree_lightGrey
+    second: {fileID: 2100000, guid: 264cccf387c99fe44a18850b0d86d99b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fourtyTwo_lightBrown
+    second: {fileID: 2100000, guid: f599412dc905a154998ac616d10fcc46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fourty_Salmon
+    second: {fileID: 2100000, guid: cb5b05363bc23d542bb325280b380eea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fourty_black
+    second: {fileID: 2100000, guid: 2a011ef49e221e94a8fc2c01b89e6de9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fourtynine_Orange
+    second: {fileID: 2100000, guid: bed3d27e1862edd4394277596b631a2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fourtynine_yellow1
+    second: {fileID: 2100000, guid: 910e43bc8c3062a48a3f9737cf840dc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nighteen_black
+    second: {fileID: 2100000, guid: 377d448d29db7734d947197109be7dc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nighteen_neonGreen
+    second: {fileID: 2100000, guid: b49e093b481e61949a526968b0235a0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nine_black
+    second: {fileID: 2100000, guid: 5450eb27f66c93245bae2e2d8ea6c22e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: nine_redViolet
+    second: {fileID: 2100000, guid: 8731badd62cb7044a87d54fc16de3d38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seven_Redsq
+    second: {fileID: 2100000, guid: 86be24b5a4b8da24fa5fabde65e169d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seven_midnightBlue
+    second: {fileID: 2100000, guid: a3d4a85872dffcf49aa3cc3516df0539, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seven_neonGreen
+    second: {fileID: 2100000, guid: 6a94295fc13bc0f4cbd1232795d41dda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seven_oliveGreen
+    second: {fileID: 2100000, guid: ceec9b0d00be03449bf6114c13cfff54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seven_turqiose
+    second: {fileID: 2100000, guid: 1b43e11a1a2658c48a675223f4906264, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seven_willowGreen
+    second: {fileID: 2100000, guid: 9a8db4813b96a5b49b39e3b0c4c90b7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seventeen_grey
+    second: {fileID: 2100000, guid: 0244a7d76e621864989802f163685670, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seventeen_paleBlue
+    second: {fileID: 2100000, guid: eb649f8349802a14b93a53d0942dda9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seventeen_vermillion
+    second: {fileID: 2100000, guid: cc1acd667b0b587438028013bcb203c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seventeen_white
+    second: {fileID: 2100000, guid: 9af16b30c0c8c5c4095ac439f986e154, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: seventen_neonPink
+    second: {fileID: 2100000, guid: 1bf88f99424b37f40b24d37fea9e08b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: six_Blacksq
+    second: {fileID: 2100000, guid: 7e040f3f8a76ac74c87dbdd0b8473fc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sixteen_Red
+    second: {fileID: 2100000, guid: 153cb173495fbca4ca6d26ce4b9fc16d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: sixty_neonYellow
+    second: {fileID: 2100000, guid: 7b00348995961094c9e2de174f149b30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ten_bordeaux
+    second: {fileID: 2100000, guid: 96ff751766abeb04b950ea467d530c92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: thirteen_limeGreen
+    second: {fileID: 2100000, guid: 2332196acf7993b4e899267ae39672fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: thirtyEight_lightGrey
+    second: {fileID: 2100000, guid: 9d78e73abbb5da242ab4ac8c4e618bc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: thirtyFive_neonPink
+    second: {fileID: 2100000, guid: 54053b39e62ca9646b0bb612e1c8f347, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: thirtyFive_ultraMarine
+    second: {fileID: 2100000, guid: 670038a906716244cb9ac302e5e3e24d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: thirtyFour_window
+    second: {fileID: 2100000, guid: 0e306c5a626ec5b4ebb5654bbc1ab4d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: thirtyNine_window
+    second: {fileID: 2100000, guid: 80d478b09517a494db6f232e53dc406e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: thirtyOne_neonRed
+    second: {fileID: 2100000, guid: 720cf38bf5be5fb47bbe9c964c351dd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: thirtySeven_babyblue
+    second: {fileID: 2100000, guid: 0f717bd61d25fb345b8db20b057f6744, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: thirtySix_neonBlue
+    second: {fileID: 2100000, guid: 1774ed73e5e856c4a8fa41134fb18e39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: thirtyThree_lightGrey
+    second: {fileID: 2100000, guid: 837f99b0dffb99e44900de773dc28fb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: thirtyTwo_bordeaux
+    second: {fileID: 2100000, guid: 0beb063a98e4c5d46868d54420dad5e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: thirty_darkgrey
+    second: {fileID: 2100000, guid: 82af504999066f54b85835c059277b44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: thirty_orange
+    second: {fileID: 2100000, guid: 84a6891d398233f4cb1560f189b5e0fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: three_centresq
+    second: {fileID: 2100000, guid: 17f2077cb191017458043bdb80fd1c21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twelve_Black
+    second: {fileID: 2100000, guid: 064890788667450448bce28426bc6b89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twelve_white1
+    second: {fileID: 2100000, guid: 14d00dde452253f45951ffe64fdc068d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twentyEight_lightGrey
+    second: {fileID: 2100000, guid: a8f103579e790704289093fec2f9e509, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twentyFive_delftBlue
+    second: {fileID: 2100000, guid: 27fc14d6cb607cf449a34b6a3f171d5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twentyFive_grey
+    second: {fileID: 2100000, guid: 4a0a668acdaa25b45a408f3066c3618a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twentyFive_paleBlue
+    second: {fileID: 2100000, guid: b9df6bbfa813d0447825593d19adb2c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twentyFour_lilac
+    second: {fileID: 2100000, guid: 0188ec79796344a47836487673b9fbe9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twentyNine_window
+    second: {fileID: 2100000, guid: 99837e5b81e09ca48ab427ed44404fd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twentyOne_Azure
+    second: {fileID: 2100000, guid: 67345dc67c058e645b54fa6cdb4782d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twentyOne_blue
+    second: {fileID: 2100000, guid: 6a936d68507e7434ea5f99dcfbe36535, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twentyOne_delftBlue
+    second: {fileID: 2100000, guid: dcb1711f649a9944d91193c5aa43a8c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twentySeven_turquoise
+    second: {fileID: 2100000, guid: 649ead7be801f624f82de6ba68bfa32e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twentyThree_bordeaux
+    second: {fileID: 2100000, guid: 0dca0ece383b53346a455e8e2cf91d31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twentyThree_red
+    second: {fileID: 2100000, guid: 89d68892476f6ba468f80d4c69c91094, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twentyThree_vermillion
+    second: {fileID: 2100000, guid: 63cf02406ecf88a4a88b5cf9bdf3df73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twentyTwo_black
+    second: {fileID: 2100000, guid: 514b520d0ce97ae448de700fa76b5a36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twentyTwo_darkGrey
+    second: {fileID: 2100000, guid: 3804be6ab33c69c46aa8ac9d06863f6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twentyTwo_grey
+    second: {fileID: 2100000, guid: 7c384a6c96fd1024b8b5e342c0ecf6b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twenty_crimson
+    second: {fileID: 2100000, guid: 7745bf89ac5089b47badaadc8534ff44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twenty_neonOrange
+    second: {fileID: 2100000, guid: 942cb95df1f79144a94168c3f05e5a26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: twenty_orange
+    second: {fileID: 2100000, guid: d66e87c7b8f97ba4aac3d61cd0cef5f2, type: 2}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 100
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
